@@ -1,0 +1,15 @@
+C:\Csharp\PizzasApp\PizzasApp\PizzasApp\bin\Debug\netstandard2.0\PizzasApp.deps.json
+C:\Csharp\PizzasApp\PizzasApp\PizzasApp\bin\Debug\netstandard2.0\PizzasApp.dll
+C:\Csharp\PizzasApp\PizzasApp\PizzasApp\bin\Debug\netstandard2.0\PizzasApp.pdb
+C:\Csharp\PizzasApp\PizzasApp\PizzasApp\obj\Debug\netstandard2.0\PizzasApp.csproj.AssemblyReference.cache
+C:\Csharp\PizzasApp\PizzasApp\PizzasApp\obj\Debug\netstandard2.0\PizzasApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\PizzasApp\PizzasApp\PizzasApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Csharp\PizzasApp\PizzasApp\PizzasApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Csharp\PizzasApp\PizzasApp\PizzasApp\obj\Debug\netstandard2.0\PizzasApp.AssemblyInfoInputs.cache
+C:\Csharp\PizzasApp\PizzasApp\PizzasApp\obj\Debug\netstandard2.0\PizzasApp.AssemblyInfo.cs
+C:\Csharp\PizzasApp\PizzasApp\PizzasApp\obj\Debug\netstandard2.0\PizzasApp.csproj.CoreCompileInputs.cache
+C:\Csharp\PizzasApp\PizzasApp\PizzasApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Csharp\PizzasApp\PizzasApp\PizzasApp\obj\Debug\netstandard2.0\PizzasApp.dll
+C:\Csharp\PizzasApp\PizzasApp\PizzasApp\obj\Debug\netstandard2.0\refint\PizzasApp.dll
+C:\Csharp\PizzasApp\PizzasApp\PizzasApp\obj\Debug\netstandard2.0\PizzasApp.pdb
+C:\Csharp\PizzasApp\PizzasApp\PizzasApp\obj\Debug\netstandard2.0\ref\PizzasApp.dll
